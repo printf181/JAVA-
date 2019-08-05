@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+	background-color: #FFFAE8;
+}
+
+#loginTable>tbody>tr>td {
+	border: 0px;
+}
+
+.bs-docs-footer {
+	margin-top: unset;
+}
+
+.dhtmlx_message_area {
+    right: unset;
+    top: unset !important;
+    bottom: 10px;
+}
+
+.chat03_name {
+	max-width: 120px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
